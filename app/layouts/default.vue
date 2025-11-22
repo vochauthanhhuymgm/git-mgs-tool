@@ -15,7 +15,7 @@
     <!-- Footer -->
     <footer class="border-t flex-shrink-0">
       <div class="container mx-auto px-4 py-4 text-center text-muted-foreground">
-        © 2025 Git Message Tool
+        © 2025 Git Message Tool - HuyMgM
       </div>
     </footer>
   </div>
