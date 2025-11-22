@@ -3,7 +3,25 @@
     <!-- Header -->
     <header class="border-b flex-shrink-0">
       <nav class="container mx-auto px-4 py-4">
-        <h1 class="text-xl font-bold">Git Message Tool</h1>
+        <div class="flex items-center justify-between">
+          <h1 class="text-xl font-bold">Git Message Tool</h1>
+          <div class="flex items-center gap-6">
+            <NuxtLink
+              to="/branch"
+              class="text-foreground hover:text-primary transition-colors"
+              active-class="text-primary font-medium"
+            >
+              Branch
+            </NuxtLink>
+            <NuxtLink
+              to="/commit"
+              class="text-foreground hover:text-primary transition-colors"
+              active-class="text-primary font-medium"
+            >
+              Commit
+            </NuxtLink>
+          </div>
+        </div>
       </nav>
     </header>
 

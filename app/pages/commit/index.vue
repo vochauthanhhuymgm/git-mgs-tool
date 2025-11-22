@@ -1,6 +1,6 @@
 <template>
   <div class="max-w-2xl mx-auto space-y-6">
-    <div class="text-center">
+    <div class="">
       <h1 class="text-3xl font-bold tracking-tight">Git Commit Message Generator</h1>
       <p class="text-muted-foreground mt-2">Create standardized commit messages</p>
     </div>
